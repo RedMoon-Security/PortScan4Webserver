@@ -25,32 +25,32 @@ The script will do a reverse look-up for the IP if a domain name is provided and
 * 7  - Echo
 * 13 - Daytime
 * 21 - FTP
-#22 - SSH
-#23 - Telnet
-#25 - SMTP
-#37 - Time
-#43 - Nicname
-#53 - DNS
-#70 - Gopher
-#79 - Finger
-#80 - HTTP
-#110 - POP3
-#111 - rpcbind
-#135 - msrpc
-#139 - Netbios-ssn
-#143 - IMAP
-#443 - HTTPS
-#445 - Microsoft-ds
-#587 - SMTP SSL
-#993 - IMAP SSL
-#995 - POP3 SSL
-#1723 - PPTP
-#2077 - WebDAV cPanel
-#2082 - cPanel
-#2083 - cPanel SSL
-#3306 - MySQL
-#3389 - MS WBT Server (RDP)
-#5900 - VNC
-#8008 - HTTP Alternate
-#8080 - HTTP Alternate
-#8333 - VMware Server Management & Bitcoin
+* 22 - SSH
+* 23 - Telnet
+* 25 - SMTP
+* 37 - Time
+* 43 - Nicname
+* 53 - DNS
+* 70 - Gopher
+* 79 - Finger
+* 80 - HTTP
+* 110 - POP3
+* 111 - rpcbind
+* 135 - msrpc
+* 139 - Netbios-ssn
+* 143 - IMAP
+* 443 - HTTPS
+* 445 - Microsoft-ds
+* 587 - SMTP SSL
+* 993 - IMAP SSL
+* 995 - POP3 SSL
+* 1723 - PPTP
+* 2077 - WebDAV cPanel
+* 2082 - cPanel
+* 2083 - cPanel SSL
+* 3306 - MySQL
+* 3389 - MS WBT Server (RDP)
+* 5900 - VNC
+* 8008 - HTTP Alternate
+* 8080 - HTTP Alternate
+* 8333 - VMware Server Management & Bitcoin
