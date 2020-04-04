@@ -23,8 +23,8 @@ You will also need to install the **nmap** module for python using:
 The script will do a reverse look-up for the IP if a domain name is provided and then run an nmap scan on the following ports:
 
 * 7  - Echo
-#13 - Daytime
-#21 - FTP
+* 13 - Daytime
+* 21 - FTP
 #22 - SSH
 #23 - Telnet
 #25 - SMTP
