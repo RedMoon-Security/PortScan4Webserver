@@ -1,4 +1,4 @@
-# BannerGrabber
+# RedWeb-Scanner
 
 Visit us at (https://redmoonsecurity.com)
 
