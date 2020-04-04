@@ -22,6 +22,8 @@ You will also need to install the **nmap** module for python using:
 
 The script will do a reverse look-up for the IP if a domain name is provided and then run an nmap scan on the following ports:
 
+(These are the most common web server ports that we come accross but you are able to add and remove as you like)
+
 * 7  - Echo
 * 13 - Daytime
 * 21 - FTP
