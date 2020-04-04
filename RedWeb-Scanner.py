@@ -9,7 +9,6 @@ import sys
 import nmap
 import socket
 
-
 print("\nUsage: Enter a domain or IP address at the prompt\n")
 domain = raw_input ("IP address or Domain: ")
 IP_address = socket.gethostbyname(domain)
