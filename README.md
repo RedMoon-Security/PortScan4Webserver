@@ -56,3 +56,7 @@ The script will do a reverse look-up for the IP if a domain name is provided and
 * 8008 - HTTP Alternate
 * 8080 - HTTP Alternate
 * 8333 - VMware Server Management & Bitcoin
+
+## *Port status, product/software and version*
+
+If a port is found to be open the script attempts to print the sogtware/product running on the open port as well as the version number if available.
