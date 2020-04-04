@@ -15,7 +15,8 @@ domain = raw_input ("IP address or Domain: ")
 IP_address = socket.gethostbyname(domain)
 
 target = str(IP_address)
-ports = [7,13,21,22,23,25,37,43,53,70,79,80,110,111,135,139,143,161,443,445,587,993,995,1723,2077,2082,2083,3306,3389,5900,8008,8080,8333]  # Add additional ports as you see fit
+ports = [7,13,21,22,23,25,37,43,53,70,79,80,110,111,135,139,143,161,443,445,587,993,995,1723,2077,2082,2083,3306,3389,5900,8008,8080,8333]
+# Add/remove additional ports as you see fit (These are the most common web server ports)
 
 scanning = nmap.PortScanner()
 
