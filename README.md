@@ -22,19 +22,35 @@ You will also need to install the **nmap** module for python using:
 
 The script will do a reverse look-up for the IP if a domain name is provided and then run an nmap scan on the following ports:
 
-#7  - Echo                     #143 - IMAP')                                           
-#13 - Daytime                  #443 - HTTPS')
-#21 - FTP                      #445 - Microsoft-ds')    
-#22 - SSH                      #587 - SMTP SSL')
-#23 - Telnet                   #993 - IMAP SSL')   
-#25 - SMTP                     #995 - POP3 SSL')
-#37 - Time                     #1723 - PPTP')
-#43 - Nicname                  #2077 - WebDAV cPanel')
-#53 - DNS                      #2082 - cPanel')
-#70 - Gopher                   #2083 - cPanel SSL')
-#79 - Finger                   #3306 - MySQL')
-#80 - HTTP                     #3389 - MS WBT Server (RDP)')
-#110 - POP3                    #5900 - VNC')
-#111 - rpcbind                 #8008 - HTTP Alternate') 
-#135 - msrpc                   #8080 - HTTP Alternate')
-#139 - Netbios-ssn             #8333 - VMware Server Management & Bitcoin') 
+#7  - Echo                                                              
+#13 - Daytime                  
+#21 - FTP                        
+#22 - SSH                    
+#23 - Telnet                     
+#25 - SMTP                     
+#37 - Time                    
+#43 - Nicname                 
+#53 - DNS                      
+#70 - Gopher                  
+#79 - Finger                   
+#80 - HTTP                    
+#110 - POP3                   
+#111 - rpcbind                
+#135 - msrpc                   
+#139 - Netbios-ssn             
+#143 - IMAP
+#443 - HTTPS
+#445 - Microsoft-ds
+#587 - SMTP SSL
+#993 - IMAP SSL
+#995 - POP3 SSL
+#1723 - PPTP
+#2077 - WebDAV cPanel
+#2082 - cPanel
+#2083 - cPanel SSL
+#3306 - MySQL
+#3389 - MS WBT Server (RDP)
+#5900 - VNC
+#8008 - HTTP Alternate
+#8080 - HTTP Alternate
+#8333 - VMware Server Management & Bitcoin
