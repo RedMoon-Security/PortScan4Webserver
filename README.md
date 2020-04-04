@@ -12,6 +12,6 @@ Below is a screenshot of the output (yes we did use googe.com for the example, i
 
 You will need to have nmap installed on your system.
 
-You will also need to install the nmap module for python using:
+You will also need to install the **nmap** module for python using:
 
-sudo pip install python-nmap
+* sudo pip install python-nmap
