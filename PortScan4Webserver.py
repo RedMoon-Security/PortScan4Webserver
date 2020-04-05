@@ -21,7 +21,7 @@ scanning = nmap.PortScanner()
 
 print( ' ')    
 print("Author: Warren Vos <info@redmoonsecurity.com>")
-print("GitHub: https://github.com/RedMoon-Security/RedWeb-Scanner")
+print("GitHub: https://github.com/RedMoon-Security/PortScan4Webserver")
     
 print( ' ')
 print( '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
